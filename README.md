@@ -32,7 +32,7 @@ Capturas de pantalla
 
  Resultado en la consola del navegador:
 
-![Consola]()
+![Consola](https://github.com/lulu123hh/Login/blob/ccad95131f945685360715830ca7ff7575f4045a/captura.png)
 
 
 
