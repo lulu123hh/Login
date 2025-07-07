@@ -29,9 +29,6 @@ Diseño limpio y adaptable.
 
 Capturas de pantalla
 
-Vista previa del formulario:
-
-![Login Form]()
 
  Resultado en la consola del navegador:
 
