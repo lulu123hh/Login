@@ -29,29 +29,18 @@ Diseño limpio y adaptable.
 
 Capturas de pantalla
 
-### Vista previa del formulario:
+Vista previa del formulario:
 
 ![Login Form]()
 
-### Resultado en la consola del navegador:
+ Resultado en la consola del navegador:
 
 ![Consola]()
 
----
 
-## 🌐 Ver Proyecto en Línea
 
-Puedes ver el proyecto en funcionamiento en GitHub Pages:
 
-👉 **[Ver demo](https://tuusuario.github.io/login-project/)**
 
----
 
-## 📝 Notas
 
-- Proyecto simple, ideal para comenzar con JS.
-- Se puede expandir agregando validación con expresiones regulares o conexión a backends simulados.
-- El archivo `login.js` puede incluir futuras mejoras como encriptación básica o verificación con fetch.
-
----
 
